@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "Projects",
+        "PracticeSet",
+        "Patters",
+        "Apni Kaksha",
+        ""
+    ],
+    "git.enabled": false
+}
