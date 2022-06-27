@@ -1,6 +1,6 @@
 
-# Project Title
-BMR Calculator 
+# BMR Calculator 
+
 
 Its a simple BMR Calculator just made of using HTML, CSS, JavaScript.
 
